@@ -1,10 +1,10 @@
 # Pymaceuticals
 
+## I worked to clean and merge data to produce plots for information on drug regimens being tested on mice.
+
 CONTENTS:
 1. Outputs Folder: Consists of 2 CSV files from starter code Mouse_metadata.csv, and data/Study_results.csv
 2. Resources Folder: Consists of the original starter code Pymaceuticals_starter.ipynb
-
-## I worked to clean and merge data to produce plots for information on drug regimens being tested on mice.
 
 # Project Requirements
 This assignment is broken down into the following tasks:
